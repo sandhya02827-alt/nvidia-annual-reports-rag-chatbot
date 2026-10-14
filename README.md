@@ -111,6 +111,15 @@ This is a collected subset of NVIDIA's published documents, not a complete archi
 ## Future Improvements
 
 - Expand document coverage.
-- Add automated retrieval and answer-quality evaluations.
+- Expand automated tests to evaluate retrieval relevance, answer quality, and citation accuracy.
 - Improve citation verification and document filtering.
 - Deploy the application for public access.
+
+## Run Automated Tests
+
+Run from the project root:
+
+```powershell
+python -m pytest -v
+```
+
