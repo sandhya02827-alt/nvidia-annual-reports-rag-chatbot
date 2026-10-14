@@ -1,0 +1,11 @@
+﻿.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/raw/*.pdf
+data/processed/chunks.jsonl
+
+nvidia_reports_page.html
+nvidia_reports_page_files/
+

@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+requests
+pytest
+beautifulsoup4
+openai
